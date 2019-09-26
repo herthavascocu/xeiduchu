@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://koiwiedee.springbootbuch.de/sitemap.xml
